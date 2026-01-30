@@ -45,6 +45,7 @@ Azure is more than just hosting VMs — it offers advanced services like AI, ana
 ## 🧾 Azure Accounts & Subscriptions
 
 To use Azure services, you need an **Azure subscription**.<br>
+<img width="604" height="479" alt="image" src="https://github.com/user-attachments/assets/abed0825-1e5f-48b2-afd0-35926f38ed35" />
 
 ---
 
